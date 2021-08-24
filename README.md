@@ -1,0 +1,1 @@
+# kanallari-corelere-bolme
