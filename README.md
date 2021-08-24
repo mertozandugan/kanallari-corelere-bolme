@@ -244,4 +244,4 @@ MAP_ALLOW				: 81 113 212 103 105 110 111 114 118 119 120 121 122 123 124 125 12
 BIND_PORT					= 11000
 ```
 
-https://www.youtube.com/watch?v=khFogvxsmj8
+<iframe width="500" height="300" src="https://www.youtube.com/embed/khFogvxsmj8" frameborder="0" allowfullscreen></iframe>
